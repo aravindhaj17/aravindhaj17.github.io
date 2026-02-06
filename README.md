@@ -17,5 +17,5 @@ We can perform our project analysis in four steps.
 
 The entire code is available on [Github](Uber_data.ipynb).
 
-I have created the [blog](https://mahimashenoy.github.io/) that explains the entire implementation of the project.
+I have created the [blog](https://aravindhaj17.github.io/) that explains the entire implementation of the project.
 
